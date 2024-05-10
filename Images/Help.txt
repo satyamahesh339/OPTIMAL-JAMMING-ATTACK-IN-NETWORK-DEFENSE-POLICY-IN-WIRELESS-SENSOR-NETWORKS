@@ -1,0 +1,16 @@
+Run the Startup.java file
+Choose the setup frame from the menu
+Choose the network from the setup frame
+Create the nodes for position verification
+Click goback to select another network
+Click simulation window for position identification
+Choose the network from the list model
+Type the message 
+Click send button
+Req will be send to all nodes 
+Base station will get the reply from the nodes and accept or reject the position
+For sensor network assume one node as base station and press enter
+Then click send button for node movement
+For Adhoc network assume one node as source node 
+And enter the destination node for find the position 
+Postion will be identify using the nearset node 
